@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Jakarta",
+        "imageURL": "assets/city1.png",
+        "isPopular": false
+    },
+    {
+        "id": 2,
+        "name": "Bandung",
+        "imageURL": "assets/city2.png",
+        "isPopular": true
+    },
+    {
+        "id": 3,
+        "name": "Surabaya",
+        "imageURL": "assets/city3.png",
+        "isPopular": false
+    },
+    {
+        "id": 4,
+        "name": "Palembang",
+        "imageURL": "assets/city4.png",
+        "isPopular": "false"
+    },
+    {
+        "id": 5,
+        "name": "Aceh",
+        "imageURL": "assets/city5.png",
+        "isPopular": true
+    },
+    {
+        "id": 6,
+        "name": "Bogor",
+        "imageURL": "assets/city6.png",
+        "isPopular": "false"
+    }
+]
